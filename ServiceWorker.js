@@ -1,4 +1,4 @@
-const cacheName = "HKIIT at IVE(LWL)-CNY Firecracker Wish!-1.0";
+const cacheName = "HKIIT at IVE(LWL)-Valentine at HKIIT-1.0";
 const contentToCache = [
     "Build/Valentine_Game.loader.js",
     "Build/Valentine_Game.framework.js",
